@@ -13,7 +13,7 @@ A concrete5 job for migration from legacy Scrapbooks to Stacks
 
 Block->move() method is buggy in pre-5.6.x. please run this job after upgrade to 5.6.x or later.
 
-See: concrete5/concrete5@4ea06d7fc40eb24c567f5d19c9e3c3648c096e72
+See: https://github.com/concrete5/concrete5/commit/4ea06d7fc40eb24c567f5d19c9e3c3648c096e72
 
 ## Original code
 
